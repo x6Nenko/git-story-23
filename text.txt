@@ -7,5 +7,7 @@ git status
 git commit -m "Complete chapter 1"
 git add .
 git log
+git log --all
 git diff
 git checkout
+git checkout 13c92b235e9f0a4014e9fe7d086df8555d6ad6aa chapter3.txt
