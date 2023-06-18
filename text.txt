@@ -6,3 +6,6 @@ git add chapter1.txt
 git status
 git commit -m "Complete chapter 1"
 git add .
+git log
+git diff
+git checkout
