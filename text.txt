@@ -1,0 +1,8 @@
+Version controll:
+
+git init
+ls -Hidden
+git add chapter1.txt
+git status
+git commit -m "Complete chapter 1"
+git add .
