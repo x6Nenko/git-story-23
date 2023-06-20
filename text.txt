@@ -26,3 +26,17 @@ git push -u origin master
 
 Gitignore:
 
+Create file named .gitignore and add all the files that should be hiden.
+There are gitignore templates on github rep.
+
+
+Cloning
+
+git clone link
+
+
+Branching and Merging
+
+git branch experimental  \\ "experimental" is a name you need.
+git branch  \\ check existing branches
+git checkout experimental  \\ switch to another branch
