@@ -1,0 +1,4 @@
+.DS_Store
+secrets.txt
+
+# Comment like that. How to ignore particular type of file? use: *.txt

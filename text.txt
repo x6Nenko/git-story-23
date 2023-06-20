@@ -1,3 +1,5 @@
+Working Directory > Staging Area > Local Repository > Remote Repository
+
 Version controll:
 
 git init
@@ -19,3 +21,8 @@ git checkout 13c92b235e9f0a4014e9fe7d086df8555d6ad6aa chapter3.txt
 Remote repositories:
 
 git remote add origin https://github.com/x6Nenko/git-story-23.git 
+git push -u origin master
+
+
+Gitignore:
+
